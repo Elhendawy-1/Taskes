@@ -1,0 +1,15 @@
+.title{
+    /* Select all element with a class (title) */
+}
+
+#nav{
+    /* Select one element with a id (nav) */
+}
+
+div{
+    /* Select All Element With Tag (div) */
+}
+
+h2{
+    /* Select All Element With Tag (h2) */
+}

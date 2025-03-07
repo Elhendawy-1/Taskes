@@ -1,0 +1,50 @@
+.assign-3-shape-1{
+    color:white;
+    padding: 20px;
+    margin: 100px;
+    background-color: #eee;
+    width: 400px;
+    height: 400px;
+    background-image: url(../imgs/css-assignment-5-8.png);
+    background-repeat: no-repeat;
+    
+
+
+}
+
+.assign-3-shape-2{
+    color:white;
+    padding: 20px;
+    margin: 100px;
+    background-color: #eee;
+    width: 400px;
+    height: 400px;
+    background-image: url(../imgs/css-assignment-5-8.png);
+    background-position: right;
+    background-repeat: repeat-y;
+
+}
+
+.assign-3-shape-3{
+    color:white;
+    padding: 20px;
+    margin: 100px;
+    background-color: #eee;
+    width: 400px;
+    height: 400px;
+    background-image: url(../imgs/css-assignment-5-8.png);
+    background-position: bottom;
+    background-repeat: repeat-x;
+
+}
+
+.assign-3-shape-4{
+    color:white;
+    padding: 20px;
+    margin: 100px;
+    background-color: #eee;
+    width: 400px;
+    height: 400px;
+    background-image: url(../imgs/css-assignment-5-8.png);
+    background-repeat: repeat;
+}

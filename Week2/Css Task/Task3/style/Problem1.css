@@ -1,0 +1,30 @@
+.Shape1{
+    padding: 20px;
+    margin: 10px;
+    display: inline-block;
+    outline: black 5px solid;
+    border: 5px red solid;
+}
+.Shape2{
+    padding: 20px;
+    margin: 10px;
+    display: inline-block;
+    outline: black 5px solid;
+    border-right: green solid 5px;
+    border-left: green solid 5px;
+    border-top: blue solid 5px;
+    border-bottom: blue solid 5px;
+
+}
+
+.Shape3{
+    padding: 20px;
+    margin: 10px;
+    display: inline-block;
+    outline: black 5px solid;
+    border-right: green dashed 5px;
+    border-left: yellow dashed 5px;
+    border-top: red dashed 5px;
+    border-bottom: blue dashed 5px;
+
+}

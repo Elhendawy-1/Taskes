@@ -1,0 +1,22 @@
+.element-element-1{
+    background-color: #eee;
+    width: 400px;
+    border-left: red 5px solid;
+    margin: 10px;
+    padding: 20px;
+
+}
+.element-element-2{
+    visibility: hidden;
+}
+
+.element-element-3{
+    background-color: #eee;
+    width: 400px;
+    border-left: rgb(29, 185, 151) 5px solid;
+    margin: 10px;
+    padding: 20px;
+}
+
+
+
