@@ -1,0 +1,46 @@
+ul{
+    width: 400px;
+    
+    margin: auto;
+}
+.html{
+    background-color: #eee;
+    padding: 10px;
+    margin-bottom: 10px;
+    list-style-type: none;
+}
+
+.html ol li{
+    background-color: white;
+    margin: 5px;
+    padding: 10px;
+}
+
+.css{
+    background-color: #eee;
+    padding: 10px;
+    margin-bottom: 10px;
+
+    list-style-type: none;
+}
+
+.css ol li{
+    background-color: white;
+    margin: 5px;
+    padding: 10px;
+}
+
+.js{
+    background-color: #eee;
+    padding: 10px;
+    list-style-type: none;
+}
+
+.js .js2 li{
+    background-color: white;
+    margin: 5px;
+    padding: 10px;
+    width: 310px;
+    list-style-position: inside;
+}
+
