@@ -1,0 +1,41 @@
+div{
+    background-color: #eee;
+    display: inline-block;
+    position: relative;
+    margin-left: 80px;
+    counter-increment: Omar;
+    border: black solid 1px;
+    width: 100px;
+    height: 100px;
+    margin-top: 30px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 5px 5px 0 0 blue,-5px -5px 0 0 red;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+}
+div::before{
+    content: "Element";
+    position: absolute;
+    margin: 40px -30px;
+}
+
+div::after{
+    content: counter(Omar);
+    background-color: black;
+    color: white;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    margin-top: -30px;
+    margin-left: -10px;
+    
+}

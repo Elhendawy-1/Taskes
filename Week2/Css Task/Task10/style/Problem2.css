@@ -1,0 +1,13 @@
+div{
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    margin-top: 250px;
+    padding: 40px;
+    background-color: #eee;
+    box-shadow: 0 0 20px 0 black inset;
+    border-top-right-radius: 75px;
+    border-bottom-left-radius: 75px;
+    border-top-left-radius: 17px;
+    border-bottom-right-radius: 17px ;
+}
