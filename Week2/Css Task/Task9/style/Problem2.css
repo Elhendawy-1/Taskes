@@ -1,0 +1,13 @@
+div{
+    margin: auto;
+    padding: 20px;
+    background-color: #ddd;
+    width: 300px;
+}
+
+div::first-letter{
+    color: white;
+    background-color: red;
+    margin-left: -35px;
+    padding: 10px;
+}
